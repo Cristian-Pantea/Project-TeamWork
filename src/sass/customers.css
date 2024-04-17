@@ -3,6 +3,7 @@
   .container {
     width: 100%;
     margin: 0 auto;
+    height: 580px;
   }
 
   .customers-img {
@@ -14,8 +15,8 @@
   }
 
   .customers-ghilimele {
-    padding-left: 73px;
-    padding-right: 15px;
+    /* padding-left: 73px; */
+    /* padding-right: 15px; */
   }
 
   .customers-ghilimele-paragraf {
@@ -77,6 +78,7 @@
   .container {
     width: 100%;
     margin: 0 auto;
+    height: 580px;
   }
 
   .customers-img {
@@ -88,7 +90,7 @@
   }
 
   .customers-ghilimele {
-    padding-left: 74px;
+    padding-left: 73px;
     padding-top: 20px;
     padding-bottom: 104px;
   }
@@ -155,6 +157,7 @@
   .container {
     width: 100%;
     margin: 0 auto;
+    height: 700px;
 
   }
 
